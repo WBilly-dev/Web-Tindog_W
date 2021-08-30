@@ -1,0 +1,179 @@
+@media (max-width:990px){
+    #title{
+        text-align: center;
+    }
+    #Will{
+        text-align: left;
+    }
+
+}
+#title{
+    background: linear-gradient(to right,#ec0d2e,#ff4c68);
+    color: #dadfea;
+    
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    line-height: 1.5;
+    margin-top: 220px;
+    font-weight: bold;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4.5rem;
+    line-height: 1.5;
+}
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 42px;
+    color: #Ff4c68;
+    font-weight: bold;
+} 
+
+p{
+    color: #8f8f8f;
+    font-size: 30px;
+}    
+    
+.container-fluid{
+    padding: 3% 15%;
+    
+}
+.container-features{
+    padding: 12rem;
+    background-color: #F7F7F6;
+}
+.iconw{
+    border-radius: 100%;
+    height: 33px;
+    
+}
+.icong{
+    border-radius: 100%;
+    height: 33px;
+    width: 25px;
+}
+.photo-dog{
+    width: 60% ;
+    margin-left: 132px;
+    border-radius: 8%;
+    transform: rotate(19deg);
+    position: relative;
+    top: 50px;
+    
+    
+}
+
+   
+
+
+.navbar-brand{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.navbar{
+    padding:0 0 4.5rem ;
+}
+.nav-item{
+    padding:0 15px ;
+    
+}
+.nav-link{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+    font-size: 1.2rem;
+}
+
+.donwload-button{
+    margin:5% 3% 5% 0 ;
+}
+.dowload-w{
+    margin-left: 15px;
+}
+
+.fw{
+    text-align: center;
+    padding: 5%;
+}
+.icons{
+    
+    height: 72px;
+    border-radius: 30%;
+    color: #ff4c68;
+    margin-top: 1rem;
+
+}
+
+#testimonials{
+    
+    text-align: center;
+    background: linear-gradient(to right,#ec0d2e,#ff4c68);
+    color: #dadfea;
+    
+}
+#pricing{
+    background-color: #F7F7F6;
+    padding: 100px;
+    text-align: center;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+
+.testimonial-image{
+    width: 30%;
+    border-radius: 50%;
+    margin-top: 20px;
+    
+}
+#press{
+    background: linear-gradient(to right,#ec0d2e,#ff4c68);
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+.logos{
+    width: 15%;
+    margin:20px;
+}
+.card{
+    background-color: #F7F7F6;
+    
+}
+
+.pricing-colum{
+    padding: 3% 2%;
+}
+.h3pricing{
+    color: #1C1F23;
+
+}
+
+
+/*Footer*/
+#cta{
+    background: linear-gradient(to right,#ec0d2e,#ff4c68);
+    text-align: center;
+    padding: 10%;
+}
+.h3Footer{
+    color:#dadfea ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0% 27% 0%;
+}
+
+
+#footer{
+    padding: 10%;
+    text-align: center;
+    background-color: #F7F7F6;
+}
+.icons-footer{
+    height: 30px;
+    margin: 10px;
+}
+#pf{
+    color: #1C1F23;
+}
